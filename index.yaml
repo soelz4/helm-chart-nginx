@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  nginx-alpine:
+  - apiVersion: v2
+    name: nginx-alpine
+    version: 0.1.0
+    description: A Helm chart for deploying Nginx with Alpine 3.22
+    urls:
+    - https://github.com/soelz4/helm-chart-nginx.git/releases/download/nginx-0.1.0/nginx-0.1.0.tgz
+    created: 2025-08-07T00:00:00.000Z
+    digest: 10f3ceef35b559fab678a50ed82b39ae03111970e36b69a073eee92dc40b83ae
+generated: "2025-08-08T13:04:39.801900771+03:30"
